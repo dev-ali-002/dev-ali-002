@@ -5,12 +5,14 @@
 <p align="center">
   Passionate about building scalable, high-performance, and user-friendly mobile applications with Flutter.
 </p>
-<img src="https://geekflare.com/wp-content/uploads/2022/10/Heres-What-it-Means-to-Be-a-Full-Stack-Developer.jpeg">
+
 
 <p align="center">
   <a href="mailto:alideveloper960@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/ali-ijaz-284ab638b/">💼 LinkedIn</a>
 </p>
+
+<img src="https://geekflare.com/wp-content/uploads/2022/10/Heres-What-it-Means-to-Be-a-Full-Stack-Developer.jpeg">
 
 ---
 
