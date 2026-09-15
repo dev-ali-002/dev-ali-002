@@ -1,51 +1,153 @@
-<h2 align="center">🚀 Hi, I'm Ali — A Passionate Flutter Developer from Pakistan 💙</h2>
-<img src="https://geekflare.com/wp-content/uploads/2022/10/Heres-What-it-Means-to-Be-a-Full-Stack-Developer.jpeg">
+<h1 align="center">Hi 👋, I'm Ali Ijaz</h1>
+
+<h3 align="center">Flutter Developer | Mobile App Developer | API & Firebase Integration</h3>
+
+<p align="center">
+  Passionate about building scalable, high-performance, and user-friendly mobile applications with Flutter.
+</p>
+
+<p align="center">
+  <a href="mailto:alideveloper960@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/ali-ijaz-284ab638b/">💼 LinkedIn</a>
+</p>
 
 ---
 
-## 💻 Skills & Technologies
-**Flutter | Dart | Firebase | REST API | GetX | Provider | Riverpod | SQLite | Hive | Stripe | Git | GitHub | Android | iOS | VS Code | Android Studio | Figma | Play Store | App Store**
+## 👨‍💻 About Me
 
-## 🚀 About Me
-I’m Ali, a Flutter Developer passionate about building high-performance **cross-platform mobile applications** with clean architecture and engaging UI/UX.  
-I specialize in **mobile-first design**, **real-time features**, and **scalable integrations** using Flutter, Firebase, and third-party APIs.  
+I'm a **Flutter Developer from Pakistan** focused on developing modern, scalable, and production-ready mobile applications for **Android and iOS**.
 
-- **Flutter Skills**: UI/UX Design, Animations, Navigation, Forms & Validation, Debugging  
-- **Advanced Features**: Google Maps, Payment Gateways, Push Notifications, AI Integration, 3D Models (flutter_cube), File Handling, Background Services  
-- **Backend & APIs**: REST API Integration, Firebase, Socket Programming, Laravel APIs  
-- **Tools & Platforms**: GitHub, Postman, Firebase Console, Trello, VS Code, Android Studio, Figma, Hoppscotch  
-- **Other Languages**: HTML, CSS, React, C#  
+I enjoy turning ideas into polished digital products by combining clean UI/UX, structured architecture, efficient state management, API integrations, and reliable backend services.
 
-💡 My goal is to deliver **scalable, user-friendly, and impactful applications** that help businesses and individuals succeed.  
+My development approach focuses on:
 
----
-
-## 🌟 What I Do
-🔹 **Cross-Platform Mobile Development**: Building apps with Flutter & Dart for Android and iOS.  
-🔹 **UI/UX Perfection**: Creating interactive, responsive, and beautiful designs.  
-🔹 **Advanced Features**: Maps, Stripe Payments, Push Notifications, AI-powered features.  
-🔹 **Backend & APIs**: Integrating Firebase, REST APIs, and Laravel backends.  
-🔹 **Performance Optimization**: Ensuring apps run fast, smooth, and bug-free.  
-🔹 **Collaboration**: Using GitHub, Postman, Trello, and Figma to work with teams.  
+* Clean and maintainable code
+* Responsive and intuitive UI/UX
+* Scalable application architecture
+* Performance optimization
+* Secure API and backend integrations
+* Production-ready mobile applications
 
 ---
 
-## 🏆 Achievements & Highlights
-📱 Built multiple apps including **Velanto Grocery App**, **CIPA (Cyber Security App)**, and **TikTok Clone**.  
-🗺️ Developed real-time location tracking using **Google Maps & Socket Programming**.  
-💳 Integrated **Stripe & Payment Gateways** into Flutter apps.  
-🔔 Implemented **Push Notifications & Background Services**.  
-🤖 Worked with **AI-powered mobile features** like text-to-model generation and image background removal.  
-📡 Optimized apps with **GetX, Provider, Riverpod** for smooth performance.  
+## 🛠️ Tech Stack
+
+### Mobile Development
+
+`Flutter` `Dart` `Android` `iOS`
+
+### State Management
+
+`GetX` `Provider` `Riverpod`
+
+### Backend & Database
+
+`Firebase` `REST APIs` `Laravel APIs` `SQLite` `Hive` `Socket Programming`
+
+### Integrations
+
+`Google Maps` `Stripe` `Payment Gateways` `Push Notifications` `AI APIs`
+
+### Development Tools
+
+`Git` `GitHub` `Postman` `Hoppscotch` `VS Code` `Android Studio` `Figma` `Trello`
+
+### Additional Technologies
+
+`HTML` `CSS` `React` `C#`
 
 ---
 
-## 💬 Let’s Connect
-📧 **Email**: alideveloper960@gmail.com
-💼 **LinkedIn**: [https://www.linkedin.com/in/ali-ijaz-284ab638b/](https://www.linkedin.com/in/ali-ijaz-284ab638b/)  
+## ⚡ Core Expertise
+
+📱 **Cross-Platform Development**
+Building responsive Flutter applications for Android and iOS from a single scalable codebase.
+
+🎨 **UI/UX Implementation**
+Transforming designs into pixel-perfect, responsive, and interactive mobile interfaces.
+
+🔥 **Firebase Integration**
+Working with Authentication, Firestore, Storage, Notifications, and other Firebase services.
+
+🌐 **API Integration**
+Connecting mobile applications with REST APIs, Laravel backends, third-party services, and real-time systems.
+
+🗺️ **Location-Based Features**
+Implementing Google Maps, live location tracking, markers, routes, and socket-based real-time updates.
+
+💳 **Payment Integration**
+Integrating Stripe and other payment solutions into Flutter applications.
+
+🔔 **Notifications & Background Tasks**
+Implementing push notifications, background services, and application lifecycle functionality.
+
+🤖 **AI-Powered Features**
+Integrating AI APIs for intelligent mobile features, image processing, and automation.
+
+🚀 **Performance Optimization**
+Improving application speed, responsiveness, architecture, and overall user experience.
 
 ---
 
-## 🌟 Beyond Coding
-Outside of coding, I enjoy **exploring AI tools**, **designing UI concepts**, and **mentoring developers**.  
-I’m always excited to learn new technologies, contribute to open-source, and collaborate on impactful projects. 🚀
+## 🚀 Featured Projects
+
+### 🛒 Velanto Grocery App
+
+A modern grocery shopping application built with Flutter featuring product management, responsive UI, APIs, and scalable application architecture.
+
+### 🔐 CIPA — Cyber Security App
+
+A cybersecurity-focused mobile application designed to provide security-related tools and functionality through an intuitive Flutter interface.
+
+### 🎵 TikTok Clone
+
+A social-media-style mobile application featuring interactive content, modern UI components, and scalable Flutter architecture.
+
+### 📍 Real-Time Location Tracking
+
+Implemented live location tracking using **Google Maps and Socket Programming** for real-time movement and location updates.
+
+---
+
+## 🏆 Development Highlights
+
+* Built and maintained multiple Flutter applications
+* Integrated REST APIs and Laravel-based backend services
+* Implemented Firebase authentication and real-time functionality
+* Developed real-time location tracking systems
+* Integrated Stripe and payment gateway solutions
+* Implemented push notifications and background services
+* Worked with GetX, Provider, and Riverpod
+* Integrated AI-powered application features
+* Worked with file handling and image-processing workflows
+* Implemented basic 3D model functionality using `flutter_cube`
+* Prepared and deployed mobile applications for production
+
+---
+
+## 📌 Currently Focused On
+
+* Advanced Flutter architecture
+* Scalable mobile application development
+* AI integration in mobile applications
+* Application performance optimization
+* Real-time mobile experiences
+* Clean Architecture & reusable components
+* Production-level Android and iOS applications
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to collaborating on **Flutter applications, mobile products, API integrations, Firebase projects, AI-powered applications, and innovative software solutions**.
+
+📧 **Email:** [alideveloper960@gmail.com](mailto:alideveloper960@gmail.com)
+💼 **LinkedIn:** [Ali Ijaz](https://www.linkedin.com/in/ali-ijaz-284ab638b/)
+
+---
+
+<h3 align="center">💙 Building Better Mobile Experiences with Flutter</h3>
+
+<p align="center">
+  Code • Create • Optimize • Scale
+</p>
